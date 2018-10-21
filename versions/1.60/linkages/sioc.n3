@@ -1,0 +1,3 @@
+<http://kbpedia.org/kko/rc/MessageThread> owl:equivalentClass <http://rdfs.org/sioc/ns#Thread> .
+<http://kbpedia.org/kko/rc/ComputerBulletinBoard> owl:equivalentClass <http://rdfs.org/sioc/ns#Forum> .
+<http://kbpedia.org/kko/rc/UserAccountGroup> owl:equivalentClass <http://rdfs.org/sioc/ns#Usergroup> .
