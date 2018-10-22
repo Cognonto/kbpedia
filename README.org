@@ -61,7 +61,7 @@ Most of the 30 or so core typologies in KBpedia do not overlap with one another,
 
 ** Explore
 
-To explore KBpedia, simply use the [[http://kbpedia.org/knowledge-graph/][KBpedia Knowledge Graph explorer]]. Possible matching concepts are presented as you type. Once you enter the knowledge graph, you can explore and navigate in many different ways. Alternatively, try one of these KBpedia concepts as a way to get started:
+To explore KBpedia, simply use the [[http://kbpedia.org/knowledge-graph/][KBpedia Knowledge Graph explorer]]. Possible matching concepts are presented as you type. Once you enter the knowledge graph, you can explore and navigate in [[http://kbpedia.org/docs/how-to-use-the-knowledge-graph/][many different ways]]. Alternatively, try one of these KBpedia concepts as a way to get started:
 
  - [[http://kbpedia.org/knowledge-graph/reference-concept/?uri=Automobile][Car]]
  - [[http://kbpedia.org/knowledge-graph/reference-concept/?uri=City][City]]
