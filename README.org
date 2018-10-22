@@ -1,12 +1,10 @@
 * Introduction
 
-[[http://kbpedia.org][KBpedia]] is a comprehensive knowledge structure for promoting data interoperability and knowledge-based artificial intelligence, or [[http://www.mkbergman.com/category/kbai/][KBAI]]. The KBpedia knowledge structure combines six (6) public knowledge bases — [[https://en.wikipedia.org/wiki/Wikipedia][Wikipedia]], [[https://en.wikipedia.org/wiki/Wikidata][Wikidata]], [[https://en.wikipedia.org/wiki/Cyc][OpenCyc]], [[https://en.wikipedia.org/wiki/GeoNames][GeoNames]], [[https://en.wikipedia.org/wiki/DBpedia][DBpedia]], and [[https://en.wikipedia.org/wiki/UMBEL][UMBEL]] — into an integrated whole. KBpedia's upper structure, or knowledge graph, is the KBpedia Knowledge Ontology. We base KKO on the universal categories and knowledge representation theories of the great 19th century American logician, polymath and scientist, [[https://en.wikipedia.org/wiki/Charles_Sanders_Peirce][Charles Sanders Peirce]].
+[[http://kbpedia.org][KBpedia]] is a comprehensive knowledge structure for promoting data interoperability and knowledge-based artificial intelligence, or [[http://www.mkbergman.com/category/kbai/][KBAI]]. The KBpedia knowledge structure combines seven (7) public knowledge bases — [[https://en.wikipedia.org/wiki/Wikipedia][Wikipedia]], [[https://en.wikipedia.org/wiki/Wikidata][Wikidata]], [[https://schema.org/][schema.org]], [[http://dbpedia.org/][DBpedia]], [[https://en.wikipedia.org/wiki/GeoNames][GeoNames]], [[https://en.wikipedia.org/wiki/Cyc][OpenCyc]], and [[https://en.wikipedia.org/wiki/UMBEL][UMBEL]] — into an integrated whole. KBpedia's upper structure, or knowledge graph, is the KBpedia Knowledge Ontology. We base KKO on the universal categories and knowledge representation theories of the great 19th century American logician, polymath and scientist, [[https://en.wikipedia.org/wiki/Charles_Sanders_Peirce][Charles Sanders Peirce]].
 
-KBpedia, written primarily in [[https://en.wikipedia.org/wiki/Web_Ontology_Language][OWL 2]], includes 54,000 reference concepts, about 30 million entities, and 3,000 relations and properties, all organized according to about 80 modular typologies that can be readily substituted or expanded. We subject items added to KBpedia to a rigorous suite of logic and consistency tests — and best practices — before acceptance. The result is a flexible and computable knowledge graph that can be sliced-and-diced and configured for all sorts of machine learning tasks, including supervised, unsupervised and deep learning.
+KBpedia, written primarily in [[https://en.wikipedia.org/wiki/Web_Ontology_Language][OWL 2]], includes 55,000 reference concepts, about 30 million entities, and 5,000 relations and properties, all organized according to about 70 modular typologies that can be readily substituted or expanded. We subject items added to KBpedia to a rigorous suite of logic and consistency tests — and best practices — before acceptance. The result is a flexible and computable knowledge graph that can be sliced-and-diced and configured for all sorts of machine learning tasks, including supervised, unsupervised and deep learning.
 
-
-
-KBpedia, KKO and its mapped information can drive multiple [[http://kbpedia.org/use-cases/][use cases]] include creating word embedding models, fine-grained entity recognition and tagging, relation and sentiment extractors, and categorization. Knowledge-based AI models may be set up and refined with unprecedented speed and accuracy by leveraging the integrated KBpedia structure.
+KBpedia, KKO and its mapped information can drive multiple [[http://kbpedia.org/use-cases/][use cases]] include providing a computable framework over Wikipedia and Wikidata, creating word embedding models, fine-grained entity recognition and tagging, relation and sentiment extractors, and categorization. Knowledge-based AI models may be set up and refined with unprecedented speed and accuracy by leveraging the integrated KBpedia structure. KBpedia is also a powerful nucleus for setting up your own coherent domain ontology or knowledge graph.
 
 To learn more, try out the KBpedia [[http://kbpedia.org/demo][demo]] or explore the KBpedia [[http://kbpedia.org/knowledge-graph][knowledge graph]].
 
@@ -24,30 +22,30 @@ Each =KBpedia= version exists in the =versions= folder. Each sub-folder is a ver
 
 Then we added a sub-folder called =linkages= where each link to other ontologies concepts have been listed. There is one file per linked ontology. The ontologies currently linked to KBpedia are:
 
- - =bibo.n3=
- - =doap.n3=
- - =geo.n3=
- - =opencyc.n3=
- - =same-as.n3=
- - =transit.n3=
- - =cc.n3=
- - =event.n3=
- - =geonames.n3=
- - =org.n3=
- - =schema.org.n3=
- - =umbel.n3=
- - =dbpedia-ontology.n3=
- - =foaf.n3=
- - =mo.n3=
- - =po.n3=
- - =sioc.n3=
- - =wikidata.n3=
- - =dc.n3=
- - =frbr.n3=
- - =oo.n3=
- - =rss.n3=
- - =time.n3=
  - =wikipedia.n3=
+ - =wikidata.n3=
+ - =schema.org.n3=
+ - =dbpedia-ontology.n3=
+ - =geonames.n3=
+ - =opencyc.n3=
+ - =umbel.n3=
+ - =bibo.n3=
+ - =cc.n3=
+ - =dc.n3=
+ - =doap.n3=
+ - =event.n3=
+ - =foaf.n3=
+ - =frbr.n3=
+ - =geo.n3=
+ - =mo.n3=
+ - =oo.n3=
+ - =org.n3=
+ - =po.n3=
+ - =rss.n3=
+ - =same-as.n3=
+ - =sioc.n3=
+ - =time.n3=
+ - =transit.n3=
 
 Finally, under the =typologies= folder we added one file per typology (see below) with all the relationships it contains.
 
