@@ -8,6 +8,8 @@ KBpedia, KKO and its mapped information can drive multiple [[http://kbpedia.org/
 
 To learn more, try out the KBpedia [[http://kbpedia.org/demo][demo]] or explore the KBpedia [[http://kbpedia.org/knowledge-graph][knowledge graph]].
 
+The open source KBpedia, its voluminous mappings, and its typologies are available under the Creative Commons [[https://creativecommons.org/licenses/by/4.0/][Attribution 4.0 International (CC BY 4.0)]] license.
+
 * Knowledge Graph
 
 ** Repository Content
