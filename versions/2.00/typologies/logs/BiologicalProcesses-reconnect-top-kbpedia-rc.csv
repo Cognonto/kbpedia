@@ -1,0 +1,18 @@
+top-typology-kbpedia-rc-id,opencyc-path-id,opencyc-path-label,connecting-kbpedia-rc
+ChemicalSynthesis,,,
+,Mx4r0OTTrDqqTYuIBAbwSxKa7g,aura:SpontaneousChange,
+ChemicalSynthesis,,,
+,http://www.w3.org/2002/07/owl#Thing,,
+ChemicalSynthesis,,,
+,,,Situation
+BiogenicSulfideCorrosion,,,
+,,,Bacterium
+BiologicalProcess,,,
+,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WPBQnCkRsZ2tw3ljb3JwHiu-QX-OnCkRsZ2tw3ljb3Jw,(CollectionUnionFn (TheSet BiologicalProcess ChemicalInteraction)),
+BiologicalProcess,,,
+,http://www.w3.org/2002/07/owl#Thing,,
+,,,
+,,,
+,2,,
+aura:SpontaneousChange,1,,
+(CollectionUnionFn (TheSet BiologicalProcess ChemicalInteraction)),1,,

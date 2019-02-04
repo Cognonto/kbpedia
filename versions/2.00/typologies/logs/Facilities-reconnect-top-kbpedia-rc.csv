@@ -1,0 +1,22 @@
+top-typology-kbpedia-rc-id,opencyc-path-id,opencyc-path-label,connecting-kbpedia-rc
+Facility-Generic,,,
+,Mx4rvVjTtJwpEbGdrcN5Y29ycA,Place,
+Facility-Generic,,,
+,http://www.w3.org/2002/07/owl#Thing,,
+Facility-Generic,,,
+,Mx8Ngx4rwROrhZwpEbGdrcN5Y29ycB4rvViA9JwpEbGdrcN5Y29ycB4rvViAkpwpEbGdrcN5Y29ycA,(CollectionDifferenceFn Thing Person),
+Facility-Generic,,,
+,Mx8Ngx4rwROrhZwpEbGdrcN5Y29ycB4rvViA9JwpEbGdrcN5Y29ycB4rHKA2rmHkEdqAAAACs71DGQ,(CollectionDifferenceFn Thing PerceptualAgent),
+Facility-Generic,,,
+,Mx4rvhT1EZwpEbGdrcN5Y29ycA,Location-Underspecified,
+Facility-Generic,,,
+,,,SpatialThing
+ConstructionArtifact,,,
+,,,DurableGood
+,,,
+,,,
+Place,1,,
+Location-Underspecified,1,,
+(CollectionDifferenceFn Thing Person),1,,
+(CollectionDifferenceFn Thing PerceptualAgent),1,,
+,1,,
