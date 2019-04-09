@@ -1,0 +1,13 @@
+s,p,o
+http://kbpedia.org/kko/rc/Fare,kko:superClassOf,http://vocab.org/transit/terms/Fare
+http://kbpedia.org/kko/rc/Terminal-TransferPoint,kko:superClassOf,http://purl.org/dc/dcmitype/Transfer
+http://kbpedia.org/kko/rc/Terminal-TransferPoint,kko:superClassOf,http://vocab.org/transit/terms/Station
+http://kbpedia.org/kko/rc/TravelRoute,kko:superClassOf,http://vocab.org/transit/terms/Route
+http://kbpedia.org/kko/rc/TextString,owl:equivalentClass,http://purl.org/dc/dcmitype/Text
+http://vocab.org/transit/terms/Schedule,owl:equivalentClass,http://kbpedia.org/kko/rc/TimetableInformation
+http://xmlns.com/foaf/0.1/Organization,owl:equivalentClass,http://kbpedia.org/kko/rc/Organization
+http://xmlns.com/foaf/0.1/Person,owl:equivalentClass,http://kbpedia.org/kko/rc/Person
+http://purl.org/dc/dcmitype/Transfer,rdfs:subClassOf,http://kbpedia.org/kko/rc/Terminal-TransferPoint
+http://vocab.org/transit/terms/Fare,rdfs:subClassOf,http://kbpedia.org/kko/rc/Fare
+http://vocab.org/transit/terms/Route,rdfs:subClassOf,http://kbpedia.org/kko/rc/TravelRoute
+http://vocab.org/transit/terms/Station,rdfs:subClassOf,http://kbpedia.org/kko/rc/Terminal-TransferPoint

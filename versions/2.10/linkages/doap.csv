@@ -1,0 +1,16 @@
+s,p,o
+http://kbpedia.org/kko/rc/InformationStore,kko:superClassOf,http://usefulinc.com/ns/doap#Repository
+http://kbpedia.org/kko/rc/Specification,kko:superClassOf,http://usefulinc.com/ns/doap#Specification
+http://kbpedia.org/kko/rc/SpatialThing,kko:superClassOf,http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing
+http://kbpedia.org/kko/rc/Project,kko:superClassOf,http://xmlns.com/foaf/0.1/Project
+http://xmlns.com/foaf/0.1/OnlineAccount,kko:superClassOf,http://kbpedia.org/kko/rc/InternetService
+http://www.w3.org/2004/02/skos/core#Concept,owl:equivalentClass,http://kbpedia.org/kko/rc/Concept
+http://xmlns.com/foaf/0.1/Agent,owl:equivalentClass,http://kbpedia.org/kko/rc/Agent-Generic
+http://xmlns.com/foaf/0.1/Group,owl:equivalentClass,http://kbpedia.org/kko/rc/MultiIndividualAgent-Intelligent
+http://xmlns.com/foaf/0.1/LabelProperty,owl:equivalentClass,http://kbpedia.org/kko/rc/Label-IBO
+http://xmlns.com/foaf/0.1/Organization,owl:equivalentClass,http://kbpedia.org/kko/rc/Organization
+http://usefulinc.com/ns/doap#Repository,rdfs:subClassOf,http://kbpedia.org/kko/rc/InformationStore
+http://usefulinc.com/ns/doap#Specification,rdfs:subClassOf,http://kbpedia.org/kko/rc/Specification
+http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing,rdfs:subClassOf,http://kbpedia.org/kko/rc/SpatialThing
+http://xmlns.com/foaf/0.1/Project,rdfs:subClassOf,http://kbpedia.org/kko/rc/Project
+http://kbpedia.org/kko/rc/InternetService,rdfs:subClassOf,http://xmlns.com/foaf/0.1/OnlineAccount
