@@ -1,0 +1,11 @@
+s,p,o
+http://kbpedia.org/kko/rc/MusicPerformanceAgent,owl:equivalentClass,http://purl.org/ontology/mo/MusicArtist
+http://kbpedia.org/kko/rc/MusicalPerformer,owl:equivalentClass,http://purl.org/ontology/mo/SoloMusicArtist
+http://kbpedia.org/kko/rc/Band-MusicGroup,owl:equivalentClass,http://purl.org/ontology/mo/MusicGroup
+http://kbpedia.org/kko/rc/RecordedSoundProduct,owl:equivalentClass,http://purl.org/ontology/mo/Record
+http://kbpedia.org/kko/rc/MusicTrack,owl:equivalentClass,http://purl.org/ontology/mo/Track
+http://kbpedia.org/kko/rc/Multi-MovementComposition,owl:equivalentClass,http://purl.org/ontology/mo/Movement
+http://kbpedia.org/kko/rc/AudioConceptualWork,owl:equivalentClass,http://purl.org/ontology/mo/MusicalWork
+http://kbpedia.org/kko/rc/Sound,owl:equivalentClass,http://purl.org/ontology/mo/Sound
+http://kbpedia.org/kko/rc/MusicalPerformance,owl:equivalentClass,http://purl.org/ontology/mo/Performance
+http://kbpedia.org/kko/rc/InformationRecordingProcess,owl:equivalentClass,http://purl.org/ontology/mo/Recording

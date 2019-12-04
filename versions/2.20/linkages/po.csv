@@ -1,0 +1,5 @@
+s,p,o
+http://kbpedia.org/kko/rc/Broadcasting,owl:equivalentClass,http://purl.org/ontology/po/Broadcast
+http://kbpedia.org/kko/rc/BroadcastMediaProduct,owl:equivalentClass,http://purl.org/ontology/po/Programme
+http://kbpedia.org/kko/rc/BroadcastSeriesProduct,owl:equivalentClass,http://purl.org/ontology/po/Series
+http://kbpedia.org/kko/rc/RadioStation-Organization,owl:equivalentClass,http://purl.org/ontology/po/Radio
