@@ -1,0 +1,3 @@
+s,p,o
+http://purl.org/rss/1.0/channel,rdfs:subClassOf,http://kbpedia.org/kko/rc/CommunicationChannel
+http://kbpedia.org/kko/rc/CommunicationChannel,kko:superClassOf,http://purl.org/rss/1.0/channel

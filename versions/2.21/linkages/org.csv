@@ -1,0 +1,12 @@
+s,p,o
+http://kbpedia.org/kko/rc/Business,kko:superClassOf,http://purl.org/goodrelations/v1#BusinessEntity
+http://kbpedia.org/kko/rc/WorkAgreement,kko:superClassOf,http://www.w3.org/ns/org#Post
+http://kbpedia.org/kko/rc/JobDescription,kko:superClassOf,http://www.w3.org/ns/org#Role
+http://kbpedia.org/kko/rc/Workplace,kko:superClassOf,http://www.w3.org/ns/org#Site
+http://xmlns.com/foaf/0.1/Agent,owl:equivalentClass,http://kbpedia.org/kko/rc/Agent-Generic
+http://xmlns.com/foaf/0.1/Person,owl:equivalentClass,http://kbpedia.org/kko/rc/Person
+http://kbpedia.org/kko/rc/Organization,owl:equivalentClass,http://www.w3.org/ns/org#Organization
+http://purl.org/goodrelations/v1#BusinessEntity,rdfs:subClassOf,http://kbpedia.org/kko/rc/Business
+http://www.w3.org/ns/org#Role,rdfs:subClassOf,http://kbpedia.org/kko/rc/JobDescription
+http://www.w3.org/ns/org#Post,rdfs:subClassOf,http://kbpedia.org/kko/rc/WorkAgreement
+http://www.w3.org/ns/org#Site,rdfs:subClassOf,http://kbpedia.org/kko/rc/Workplace
