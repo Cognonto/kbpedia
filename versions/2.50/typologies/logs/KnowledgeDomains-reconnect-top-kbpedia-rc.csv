@@ -1,0 +1,13 @@
+top-typology-kbpedia-rc-id,opencyc-path-id,opencyc-path-label,connecting-kbpedia-rc
+AcademicDepartmentTypeBySubject,,,
+,,,FacetInstanceCollection
+FieldOfStudy,,,
+,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore,
+FieldOfStudy,,,
+,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHitrr4wOtugR24AAAAKzqFFeHiu9_2xknCkRsZ2tw3ljb3Jw,(CollectionUnionFn (TheSet CardiacValveProsthesis AspatialInformationStore)),
+FieldOfStudy,,,
+,,,InformationStore
+,,,
+,,,
+AspatialInformationStore,1,,
+(CollectionUnionFn (TheSet CardiacValveProsthesis AspatialInformationStore)),1,,

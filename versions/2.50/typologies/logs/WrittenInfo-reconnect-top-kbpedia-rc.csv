@@ -1,0 +1,20 @@
+top-typology-kbpedia-rc-id,opencyc-path-id,opencyc-path-label,connecting-kbpedia-rc
+TextualMaterial,,,
+,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2EHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WQTHnCkRsZ2tw3ljb3JwHiu_kvm9nCkRsZ2tw3ljb3JwHivAMFSonCkRsZ2tw3ljb3Jw,(CollectionUnionFn (TheSet TextualMaterial PropositionalConceptualWork PropositionalCWText)),
+SystemOfWrittenMaterials,,,
+,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore,
+SystemOfWrittenMaterials,,,
+,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHitrr4wOtugR24AAAAKzqFFeHiu9_2xknCkRsZ2tw3ljb3Jw,(CollectionUnionFn (TheSet CardiacValveProsthesis AspatialInformationStore)),
+SystemOfWrittenMaterials,,,
+,,,InformationStore
+LinguisticObject,,,
+,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore,
+LinguisticObject,,,
+,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHitrr4wOtugR24AAAAKzqFFeHiu9_2xknCkRsZ2tw3ljb3Jw,(CollectionUnionFn (TheSet CardiacValveProsthesis AspatialInformationStore)),
+LinguisticObject,,,
+,,,InformationStore
+,,,
+,,,
+AspatialInformationStore,2,,
+(CollectionUnionFn (TheSet CardiacValveProsthesis AspatialInformationStore)),2,,
+(CollectionUnionFn (TheSet TextualMaterial PropositionalConceptualWork PropositionalCWText)),1,,

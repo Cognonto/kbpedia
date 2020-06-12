@@ -1,0 +1,13 @@
+top-typology-kbpedia-rc-id,opencyc-path-id,opencyc-path-label,connecting-kbpedia-rc
+TenderObject,,,
+,,,PhysicalDevice
+Tax-COC,,,
+,Mx8Ngx4rwEcGC5wpEbGdrcN5Y29ycB4r0Nnh5iJqEduAAADggVbxzR4rvVivX5wpEbGdrcN5Y29ycA,(CollectionIntersection2Fn InvestmentRelatedThing FormalCOC),
+Tax-COC,,,
+,Mx8Ngx4rwEcGC5wpEbGdrcN5Y29ycB4r0Nnh5iJqEduAAADggVbxzR4rvViVx5wpEbGdrcN5Y29ycA,(CollectionIntersection2Fn InvestmentRelatedThing CodeOfConduct),
+Market,,,
+,,,BusinessEvent
+,,,
+,,,
+(CollectionIntersection2Fn InvestmentRelatedThing FormalCOC),1,,
+(CollectionIntersection2Fn InvestmentRelatedThing CodeOfConduct),1,,

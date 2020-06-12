@@ -1,0 +1,11 @@
+top-typology-kbpedia-rc-id,opencyc-path-id,opencyc-path-label,connecting-kbpedia-rc
+BioregulatorType,,,
+,,,ChemicalAgentType
+BiologicalProcess,,,
+,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WPBQnCkRsZ2tw3ljb3JwHiu-QX-OnCkRsZ2tw3ljb3Jw,(CollectionUnionFn (TheSet BiologicalProcess ChemicalInteraction)),
+BiologicalProcess,,,
+,http://www.w3.org/2002/07/owl#Thing,,
+,,,
+,,,
+(CollectionUnionFn (TheSet BiologicalProcess ChemicalInteraction)),1,,
+,1,,
